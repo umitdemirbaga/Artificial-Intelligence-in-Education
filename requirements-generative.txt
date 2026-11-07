@@ -1,0 +1,2 @@
+# Optional Chapter 7 sentence embedding comparison; requires torch.
+sentence-transformers>=3,<6

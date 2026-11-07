@@ -1,0 +1,3 @@
+# Optional Chapter 6 BERT fine-tuning. Install appropriate PyTorch for your hardware.
+torch>=2.2,<3
+transformers>=4.42,<5

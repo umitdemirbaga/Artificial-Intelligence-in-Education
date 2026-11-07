@@ -1,0 +1,2 @@
+# Optional Kaggle Hub access for Chapter 4.
+kagglehub>=0.3,<1
