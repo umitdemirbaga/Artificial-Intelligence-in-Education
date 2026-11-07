@@ -1,0 +1,29 @@
+{
+  "files": {
+    "chapter9_f2/__init__.py": "b69a3a062f48f0a9b4a2fa09cd23c4890376801bd94be626704f76efca052760",
+    "chapter9_f2/experiments.py": "9ced56455be94b07858515482dc08530d38415b23c54ad28e841757113c1a3bc",
+    "chapter9_f2/pipeline.py": "5e03466edd49f7e5fd65c14ffccd4d058611f342c1b50fca66630d8aa5e9d67f",
+    "chapter9_f2/prompts.py": "6354afa3f8331bbedb7a9b91fca8a75166d73e27a4dff1451ecdb02b49284d2e",
+    "chapter9_f2/verification.py": "435adc6131b3508abfd84f6b6712cccd143cf99e66e99d21842cd2d3da8b34cb",
+    "chapter9_f21/__init__.py": "ca072f386450e244736708df34b58ca579e130b8791975c2471bda937d77c5a9",
+    "chapter9_f21/client.py": "b1835450e54011837feee15045d181abfbd8e38c12d616c1b300d4fbdbe2eca7",
+    "chapter9_f21/experiments.py": "2e6c3e50e4f588d200d1a3ea978509473a62dfc3f77170607a7fd1f927d838ea",
+    "chapter9_f21/pipeline.py": "87cbb20435d283ec8e38a5921735d138f1b84c6d2ad23b6c28901f0bcb03437e",
+    "chapter9_f21/prompts.py": "1421b33c48e3acfa272b4d402062761c299caeab7a6fb85901a15f4d0cccfeea",
+    "chapter9_f21/verification.py": "9f4fc3ff161ebcafd2db73e87afad67ead3045e1f63fd2647d0d6f900c664a86",
+    "chapter9_system/__init__.py": "12c5fea5f8aeee12323c284f3fe151457ced9035d3d638180a582957fe459dc0",
+    "chapter9_system/__main__.py": "cf7390a2508a0fcad4777a4a629fc5212ab655cb45845975995f835676a834e3",
+    "chapter9_system/calculator.py": "66e975f426bc89f299fc657bfcfeaf73a738515668bdf4b553711cb0e51f8eca",
+    "chapter9_system/cli.py": "95e9a12381cb64f0f3528752ff846b78af65b45b7501033641dad48654b05498",
+    "chapter9_system/client.py": "ce722f452f1c3033da84c65dc277f3b1d01eb2d2b54bb38932b29dcf55aba2d1",
+    "chapter9_system/contracts.py": "05e4aa69c97e542f1975ec2f758d76cfcd7757c7e1465a350c824cb9b7bdaac7",
+    "chapter9_system/experiments.py": "8758fa259bf0e13e5b43304d2dd821b913d425cd48012f80a55f35f40b1769bb",
+    "chapter9_system/gates.py": "83613094514d8c5bd36b2162019f5a324771eeeab223c5505507266f80cc0902",
+    "chapter9_system/historical.py": "ce6655fdb52db06d2eb6d82caa3bbd907a6a83114c83af84c8ef451e939de101",
+    "chapter9_system/pipeline.py": "bbfeaf999f620fbf554211a2b3a2616fa454ec99717dd82651a1d6ebc2ee8420",
+    "chapter9_system/prompts.py": "e4249b8f5bb5d6bed4800180cc8ccfe8f424a56ccc6201c3cbd3bda18e9e95a0",
+    "chapter9_system/review.py": "9c5fcf070a68dbf854f000247754ce22627d16d15b956987c33a95242aae975c"
+  },
+  "format": "sha256",
+  "source_count": 23
+}

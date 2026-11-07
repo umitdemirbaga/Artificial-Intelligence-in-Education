@@ -1,0 +1,4 @@
+# Core runtime: Python 3.10+ standard library only.
+# Notebook interface:
+notebook>=7,<9
+ipykernel>=6,<8
