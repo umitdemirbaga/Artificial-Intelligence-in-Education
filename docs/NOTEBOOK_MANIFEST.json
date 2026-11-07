@@ -1,0 +1,67 @@
+{
+  "book_title": "Artificial Intelligence in Education: Intelligent Systems, Agentic Frameworks, and Human-Centred Pedagogy",
+  "authors": [
+    "Kubra Kirca Demirbaga",
+    "Umit Demirbaga",
+    "",
+    "Gagangeet Singh Aujla"
+  ],
+  "notebooks": [
+    {
+      "chapter": 2,
+      "folder": "chapter02_predictive_modelling",
+      "notebook": "Chapter02_Predictive_Modelling_of_Student_Academic_Performance.ipynb",
+      "code_cells": 19,
+      "sha256": "157dc4aa41cb35e07c9ea9c1c4e24c851eebd104d1005e8784e1b5170f0c8a8c"
+    },
+    {
+      "chapter": 3,
+      "folder": "chapter03_academic_risk",
+      "notebook": "Chapter03_Early_Identification_of_At_Risk_Students.ipynb",
+      "code_cells": 22,
+      "sha256": "0eb18379ef32a7d05c001a6cb9d32f8e318ff1a9460876e58747cb4c8799f458"
+    },
+    {
+      "chapter": 4,
+      "folder": "chapter04_student_profiling",
+      "notebook": "Chapter04_Student_Profiling_and_Personalised_Learning.ipynb",
+      "code_cells": 18,
+      "sha256": "4b911066c2d6d983e21fc5e85acbace0d09bc18e483eb36dd271126fd3d667c4"
+    },
+    {
+      "chapter": 5,
+      "folder": "chapter05_probabilistic_modelling",
+      "notebook": "Chapter05_Probabilistic_Modelling_of_Learning_Behaviour.ipynb",
+      "code_cells": 21,
+      "sha256": "1ae71d20132b36fd15c64846642a223504df56d98506aba682946226aa8a357d"
+    },
+    {
+      "chapter": 6,
+      "folder": "chapter06_student_wellbeing",
+      "notebook": "Chapter06_Deep_Learning_for_Sentiment_and_Student_Well_Being_Analysis.ipynb",
+      "code_cells": 22,
+      "sha256": "523da066cb9b7297879aa1ba02fe5d14e026d7fb3bd5fd6261d60f27f01cbb03"
+    },
+    {
+      "chapter": 7,
+      "folder": "chapter07_generative_pedagogy",
+      "notebook": "Chapter07_Generative_Tutoring_and_Personalised_Pedagogy.ipynb",
+      "code_cells": 17,
+      "sha256": "759573bb9bcd7c65f5ada58b755a881ff5deca0633253e28e7bd4053eb5171c2"
+    },
+    {
+      "chapter": 8,
+      "folder": "chapter08_computer_vision",
+      "notebook": "Chapter08_Computer_Vision_for_Student_Behaviour_Assessment.ipynb",
+      "code_cells": 17,
+      "sha256": "f46294110592380e0daf36f637f7f2e3866a70367e10fdc8aed321aab12ddead"
+    },
+    {
+      "chapter": 9,
+      "folder": "chapter09_agentic_formative_assessment",
+      "notebook": "Chapter09_Agentic_Formative_Assessment_Results_and_Figures.ipynb",
+      "code_cells": 13,
+      "sha256": "38ea31eac1f6a15886356243af6694b71881be6d7ae2220256e68cfaf9ca659e"
+    }
+  ]
+}
