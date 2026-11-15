@@ -1,7 +1,7 @@
 # Chapter 7 · Generative AI and the Future of Personalised Pedagogy
 
 **Book:** Artificial Intelligence in Education: Intelligent Systems, Agentic Frameworks, and Human-Centred Pedagogy  
-**Authors:** Kubra Kirca Demirbaga, Umit Demirbaga, and Gagangeet Singh Aujla
+**Authors:** Kubra Kirca Demirbaga, Umit Demirbaga, and Gagangeet Singh Aujla, Rajiv Ranjan, Albert Y. Zomaya 
 
 Educational dialogue analysis, contextual prompts, text features, and optional local response comparison.
 
