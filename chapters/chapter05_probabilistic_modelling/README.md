@@ -1,7 +1,7 @@
 # Chapter 5 · Probabilistic Modelling of Learning Behaviour
 
 **Book:** Artificial Intelligence in Education: Intelligent Systems, Agentic Frameworks, and Human-Centred Pedagogy  
-**Authors:** Kubra Kirca Demirbaga, Umit Demirbaga, and Gagangeet Singh Aujla
+**Authors:** Kubra Kirca Demirbaga, Umit Demirbaga, and Gagangeet Singh Aujla, Rajiv Ranjan, Albert Y. Zomaya 
 
 Bayesian networks, conditional probabilities, information gain, and diagnostic inference.
 
