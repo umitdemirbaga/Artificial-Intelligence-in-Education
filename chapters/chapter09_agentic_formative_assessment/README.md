@@ -1,7 +1,7 @@
 # Chapter 9 · Agentic AI for Automated Formative Assessment and Adaptive Learning Support
 
 **Book:** Artificial Intelligence in Education: Intelligent Systems, Agentic Frameworks, and Human-Centred Pedagogy  
-**Authors:** Kubra Kirca Demirbaga, Umit Demirbaga, and Gagangeet Singh Aujla
+**Authors:** Kubra Kirca Demirbaga, Umit Demirbaga, and Gagangeet Singh Aujla, Rajiv Ranjan, Albert Y. Zomaya 
 
 Paired evaluation, expert scoring, significance tests, and results figures, plus the F1/F2.1 system source.
 
