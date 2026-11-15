@@ -3,6 +3,7 @@
 **Companion code and reproducible notebooks for Chapters 2–9**
 
 **Authors:** Kubra Kirca Demirbaga · Umit Demirbaga · Gagangeet Singh Aujla, Rajiv Ranjan, Albert Y. Zomaya 
+
 **Primary language:** Python 3.10+ · Jupyter Notebook
 
 This repository accompanies *Artificial Intelligence in Education: Intelligent Systems, Agentic Frameworks, and Human-Centred Pedagogy*. It provides one carefully organised notebook per applied chapter, connecting computational methods to educational interpretation. The included materials support exploration, model development, verification, and critical discussion of results.
