@@ -1,7 +1,7 @@
 # Chapter 3 · Early Identification of At-Risk Students Using Logistic Regression
 
 **Book:** Artificial Intelligence in Education: Intelligent Systems, Agentic Frameworks, and Human-Centred Pedagogy  
-**Authors:** Kubra Kirca Demirbaga, Umit Demirbaga, and Gagangeet Singh Aujla
+**Authors:** Kubra Kirca Demirbaga, Umit Demirbaga, and Gagangeet Singh Aujla, Rajiv Ranjan, Albert Y. Zomaya 
 
 Risk labelling, logistic regression, decision thresholds, and fairness diagnostics.
 
