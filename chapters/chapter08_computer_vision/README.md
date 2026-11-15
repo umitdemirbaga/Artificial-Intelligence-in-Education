@@ -1,7 +1,7 @@
 # Chapter 8 · Computer Vision for Automated Student Behaviour Assessment
 
 **Book:** Artificial Intelligence in Education: Intelligent Systems, Agentic Frameworks, and Human-Centred Pedagogy  
-**Authors:** Kubra Kirca Demirbaga, Umit Demirbaga, and Gagangeet Singh Aujla
+**Authors:** Kubra Kirca Demirbaga, Umit Demirbaga, and Gagangeet Singh Aujla, Rajiv Ranjan, Albert Y. Zomaya 
 
 Object-detection annotation inspection, optional YOLO training, spatial analysis, and evaluation.
 
