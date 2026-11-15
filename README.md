@@ -2,7 +2,7 @@
 
 **Companion code and reproducible notebooks for Chapters 2–9**
 
-**Authors:** Kubra Kirca Demirbaga · Umit Demirbaga · Gagangeet Singh Aujla  
+**Authors:** Kubra Kirca Demirbaga · Umit Demirbaga · Gagangeet Singh Aujla, Rajiv Ranjan, Albert Y. Zomaya 
 **Publisher:** Springer Nature (book manuscript)  
 **Primary language:** Python 3.10+ · Jupyter Notebook
 
