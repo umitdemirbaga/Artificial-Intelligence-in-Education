@@ -1,7 +1,7 @@
 # Chapter 6 · Deep Learning for Sentiment and Student Well-Being Analysis
 
 **Book:** Artificial Intelligence in Education: Intelligent Systems, Agentic Frameworks, and Human-Centred Pedagogy  
-**Authors:** Kubra Kirca Demirbaga, Umit Demirbaga, and Gagangeet Singh Aujla, Rajiv Ranjan, Albert Y. Zomaya 
+**Authors:** Kubra Kirca Demirbaga, Umit Demirbaga, and Gagangeet Singh Aujla, Albert Y. Zomaya, Rajiv Ranjan
 
 Text exploration, BERT fine-tuning, classification evaluation, and responsible interpretation.
 
