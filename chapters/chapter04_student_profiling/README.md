@@ -1,7 +1,7 @@
 # Chapter 4 · Student Profiling and Personalised Learning Through Unsupervised Learning
 
 **Book:** Artificial Intelligence in Education: Intelligent Systems, Agentic Frameworks, and Human-Centred Pedagogy  
-**Authors:** Kubra Kirca Demirbaga, Umit Demirbaga, and Gagangeet Singh Aujla, Rajiv Ranjan, Albert Y. Zomaya 
+**Authors:** Kubra Kirca Demirbaga, Umit Demirbaga, and Gagangeet Singh Aujla, Albert Y. Zomaya, Rajiv Ranjan
 
 K-Means, clustering validation, PCA, and cluster-specific educational interpretation.
 
