@@ -1,7 +1,7 @@
 # Chapter 2 · Predictive Modelling of Student Academic Performance
 
 **Book:** Artificial Intelligence in Education: Intelligent Systems, Agentic Frameworks, and Human-Centred Pedagogy  
-**Authors:** Kubra Kirca Demirbaga, Umit Demirbaga, and Gagangeet Singh Aujla, Rajiv Ranjan, Albert Y. Zomaya 
+**Authors:** Kubra Kirca Demirbaga, Umit Demirbaga, and Gagangeet Singh Aujla, Albert Y. Zomaya, Rajiv Ranjan
 
 Decision Tree classification, exploratory analysis, evaluation, and feature interpretation.
 
